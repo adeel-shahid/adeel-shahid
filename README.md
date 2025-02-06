@@ -1,5 +1,5 @@
 # Hi 👋, I'm Adeel Shahid Khan
-# A passionate MERN Stack & AI Developer from Pakistan 🇵🇰
+**A passionate MERN Stack & AI Developer from Pakistan 🇵🇰**
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Full+Stack+Developer;MERN+Stack+Enthusiast;Always+learning+new+things" alt="Typing SVG" />
