@@ -4,7 +4,7 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Full+Stack+Developer;MERN+Stack+Enthusiast;Always+learning+new+things" alt="Typing SVG" />
 </div>
----
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=adeel-shahid&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views" />
 </p>
@@ -27,7 +27,7 @@
 </p>
 
 ## 🔥 Contribution Streak
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=light)](https://git.io/streak-stats)
+<p><img  align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adeel-shahid&" alt="adeel-shahid"/></p>
 
 ## 🛠️ Languages and Tools
 <p align="center">
