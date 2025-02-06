@@ -4,6 +4,10 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Full+Stack+Developer;MERN+Stack+Enthusiast;Always+learning+new+things" alt="Typing SVG" />
 </div>
+---
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=adeel-shahid&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views" />
+</p>
 
 ## 👨‍💻 About Me
 - 🔭 I'm currently working on **Muslim Zone**
@@ -14,21 +18,20 @@
 - ⚡ Fun fact: **I love to debug code and drink coffee ☕**
 
 ## 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=adeel-shahid&theme=onedark&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=adeel-shahid&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=adeel-shahid&show_icons=true&theme=dark"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adeel-shahid&layout=compact&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=adeel-shahid&show_icons=true&theme=light"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adeel-shahid&layout=compact&theme=light"/>
 </p>
 
 ## 🔥 Contribution Streak
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=light)](https://git.io/streak-stats)
 
 ## 🛠️ Languages and Tools
 <p align="center">
-  ### MERN Stack Technologies
-```html
+
 <!-- Frontend -->
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
@@ -72,9 +75,4 @@
 </p>
 
 ## 📈 Activity Graph
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
----
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=adeel-shahid&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views" />
-</p>
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=adeel-shahid&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
