@@ -62,7 +62,7 @@
 
 <!-- Cloud Platforms -->
 
-<img src="https://raw.githubusercontent.com/cdn.worldvectorlogo.com/logos/aws-2.svg" alt="aws" width="40" height="40"/>
+<img src="https://skillicons.dev/icons?i=aws" alt="aws" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" alt="gcp" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-original.svg" alt="heroku" width="40" height="40"/>
 
