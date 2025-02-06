@@ -39,7 +39,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwind" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
 
 <!-- Backend -->
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
@@ -61,10 +61,11 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="jupyter" width="40" height="40"/>
 
 <!-- Cloud Platforms -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="aws" width="40" height="40"/>
+
+<img src="https://raw.githubusercontent.com/cdn.worldvectorlogo.com/logos/aws-2.svg" alt="aws" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" alt="gcp" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-original.svg" alt="heroku" width="40" height="40"/>
-```
+
 </p>
 
 ## 🤝 Connect with me
