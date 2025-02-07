@@ -27,7 +27,9 @@
 </p>
 
 ## 🔥 Contribution Streak
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=adeel-shahid&theme=dark)](https://git.io/streak-stats)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adeel-shahid&theme=dark&hide_border=false" alt="adeel-shahid" />
+</p>
 
 ## 🛠️ Languages and Tools
 <p align="center">
