@@ -10,12 +10,23 @@
 </p>
 
 ## 👨‍💻 About Me
-- 🔭 I'm currently working on **Muslim Zone**
+- 🔭 I'm currently working on **Wimbo**
 - 🌱 I'm currently learning **Advanced TypeScript & System Design**
 - 👯 I'm looking to collaborate on **Open Source Projects**
 - 💬 Ask me about **MERN Stack, JavaScript, TypeScript**
 - 📫 How to reach me: **adeelshahidkhan62@gmail.com**
 - ⚡ Fun fact: **I love to debug code and drink coffee ☕**
+
+## 📱 Check out Wimbo:
+<p align="center">
+  <a href="https://play.google.com/store/apps/details?id=com.wimbo">
+    <img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" alt="Get it on Google Play"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://apps.apple.com/us/app/wimbo/id6739947946">
+    <img src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white" alt="Download on App Store"/>
+  </a>
+</p>
 
 ## 🏆 GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=adeel-shahid&column=7)](https://github.com/ryo-ma/github-profile-trophy)
